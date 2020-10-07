@@ -1,5 +1,5 @@
 body {
-    font-family: sans-serif;
+    /* font-family: sans-serif; */
     background-color: #f8ebe9;
 }
 
@@ -29,6 +29,57 @@ body {
     margin-left: 2rem;
     font-size: 0.7rem;
     font-weight: 700;
+    color: #6b88ab;
+    font-family: sans-serif;
 }
 
-im
+.img1 {
+    height: 1rem;
+    width: 1rem;
+    margin-right: 0.4rem;
+}
+
+.nav {
+    display: flex;
+    font-size: 0.7rem;
+    font-weight: 700;
+    margin-top: 2.5rem;
+    margin-left: 20rem;
+    font-family: sans-serif;
+}
+
+.p3 {
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.p2 {
+    color: #9f9f9f;
+}
+
+.line {
+    height: 0.2rem;
+    width: 6rem;
+    background-color: #333333;
+    margin-left: 0.8rem;
+}
+
+.head3 {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1.3rem;
+}
+
+.head2 {
+    margin-left: 4rem;
+    margin-top: 8rem;
+}
+
+.p4 {
+    font-size: 4rem;
+}
+
+.p5 {
+    font-size: large;
+    font-weight: 500;
+}
