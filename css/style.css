@@ -40,6 +40,16 @@ body {
     margin-right: 0.4rem;
 }
 
+.img1:hover {
+    cursor: pointer;
+    fill: red;
+}
+
+.head1:hover {
+    cursor: pointer;
+    color: black;
+}
+
 .nav {
     display: flex;
     font-size: 0.7rem;
@@ -47,6 +57,17 @@ body {
     margin-top: 2.5rem;
     margin-left: 20rem;
     font-family: sans-serif;
+}
+
+.nav:hover {
+    cursor: pointer;
+    fill: black;
+    color: black;
+}
+
+.p2:hover {
+    cursor: pointer;
+    color: black;
 }
 
 .p3 {
